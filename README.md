@@ -18,8 +18,8 @@
 
 <h3 align="left">Contact me</h3>
 <p align="left">
-<a href="mailto:irinkayashina@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="irina-enotova" height="25" width="30" /></a>
-<a href="https://t.me/irinaenotova" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="irina-enotova" height="25" width="30" /></a>
+<a href="mailto:irinkayashina@gmail.com" target="blank"><img align="center" src="https://cdnlogo.com/logos/g/24/gmail-icon.svg" alt="irina-enotova" height="25" width="30" /></a>
+<a href="https://t.me/irinaenotova" target="blank"><img align="center" src="https://www.cdnlogo.com/logos/t/84/telegram.svg" alt="irina-enotova" height="25" width="30" /></a>
 </p>
 
 
