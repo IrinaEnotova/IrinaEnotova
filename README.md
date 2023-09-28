@@ -2,6 +2,7 @@
 
 - 🌱 I'm a self-taught <b>Frontend Developer</b>, I'm on the road to learning, exploring, and doing great work.
 - 👨‍💻 Currently, I'm working with web technologies.
+- 👉 You can see my CV [here](https://irinaenotova.github.io/my-cv/)
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left">
