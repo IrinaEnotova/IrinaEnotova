@@ -2,9 +2,9 @@
 
 I'm front-end developer
 
-🔥 JavaScript Enthusiast
-❤️ Passionate about React
-👉 You can see my CV [here](https://irinaenotova.github.io/my-cv/)
+- 🔥 JavaScript Enthusiast
+- ❤️ Passionate about React
+- 👉 You can see my CV [here](https://irinaenotova.github.io/my-cv/)
 
 <h3 align="left">Tech stack</h3>
 <p align="left">
