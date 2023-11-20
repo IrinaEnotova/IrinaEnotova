@@ -1,10 +1,12 @@
 ### Hi there, I'm Irina 👋
 
-- 🌱 I'm a self-taught <b>Frontend Developer</b>, I'm on the road to learning, exploring, and doing great work.
-- 👨‍💻 Currently, I'm working with web technologies.
-- 👉 You can see my CV [here](https://irinaenotova.github.io/my-cv/)
+I'm front-end developer
 
-<h3 align="left">Languages and Tools</h3>
+🔥 JavaScript Enthusiast
+❤️ Passionate about React
+👉 You can see my CV [here](https://irinaenotova.github.io/my-cv/)
+
+<h3 align="left">Tech stack</h3>
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
